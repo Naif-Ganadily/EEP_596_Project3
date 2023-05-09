@@ -2,7 +2,24 @@
 # Twitter Sentiment Analysis Project
 ### Authors: Eric Chang and Naif Ganadily
 
+## Project Overview:
 This project aims to analyze a dataset of English Twitter messages and predict the emotion present in each tweet. We will train and compare different machine learning models, including Logistic Regression, LSTM, and Transformer-based models, and analyze their performance in predicting emotions in the tweets.
+
+## Kaggle Competitions
+### Competition 1: Twitter Emotion Prediction
+Overview: The goal of this competition is to predict the emotion of a given tweet. The emotion labels are sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5).
+
+#### Competition Name and Leaderboard:
+Name: Copy of Twitter Emotion Prediction <br> 
+Leaderboard: [Link to the leaderboard](https://www.kaggle.com/competitions/twitter-emotion-prediction-copy/leaderboard)
+
+### Competition 2: Twitter Emotion Prediction 2
+Overview: The goal of this competition is also to predict the emotion of a given tweet.
+
+#### Competition Name and Leaderboard:
+Name: Twitter Emotion Prediction 2 <br> 
+Leaderboard: [Link to the leaderboard](https://www.kaggle.com/competitions/twitter-emotion-prediction-2/leaderboard)
+
 
 ## Table of Contents
 - Basics and Visualization
