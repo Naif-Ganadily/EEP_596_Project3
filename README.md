@@ -1,6 +1,7 @@
 # EEP_596_Project3
 # Twitter Sentiment Analysis Project
 ### Authors: Eric Chang and Naif Ganadily
+### The Final Team Project for EEP 596: Advanced Introduction to Machine Learning
 
 ## Project Overview:
 This project aims to analyze a dataset of English Twitter messages and predict the emotion present in each tweet. We will train and compare different machine learning models, including Logistic Regression, LSTM, and Transformer-based models, and analyze their performance in predicting emotions in the tweets.
