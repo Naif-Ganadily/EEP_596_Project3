@@ -1,6 +1,7 @@
 # EEP_596_Project3
 # Twitter Sentiment Analysis Project
 ### Authors: Eric Chang and Naif Ganadily
+### instructed by Prof. Karthik Mohan
 ### The Final Team Project for EEP 596: Advanced Introduction to Machine Learning
 
 ## Project Overview:
